@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1NF053C.
-- 💻 I'm a Full-stack developer with 5 years of professional experience
+- 💻 I'm a Full-stack developer with ~5 years of professional experience
   - Frontend Browser Apps
   - REST APIs
   - GraphQL
