@@ -3,6 +3,6 @@
   - Frontend Browser Apps
   - REST APIs
   - GraphQL
-  - SRE / AWS
+  - AWS
   - Linux
 - 🌱 My latest interests include Cybersec and Information Assurance ... I want to know how to keep Grandma's cookie recipe safe!🍪😁
