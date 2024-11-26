@@ -9,3 +9,4 @@ latest vibes
 - Promote knowledge of ethics in game design.
 - Promote clarity and clarity-defining skills.
 - Lean towards not gamifying bottom 2-3 levels of Maslow's Hierarchy of Needs.
+- Lean towards not requiring constant surveillance.
