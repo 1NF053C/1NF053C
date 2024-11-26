@@ -1,7 +1,7 @@
 i write javascript.
 this is my main/active github account.
 
-latest vibes
+Latest vibes
 - Require explicit in-person consent from people within automation contexts.
 - Require explicit in-person consent from people to participate in games.
 - Define scope and domain within game definitions.
@@ -9,4 +9,4 @@ latest vibes
 - Promote knowledge of ethics in game design.
 - Promote clarity and clarity-defining skills.
 - Lean towards not gamifying bottom 2-3 levels of Maslow's Hierarchy of Needs.
-- Lean towards not requiring constant surveillance.
+- Lean towards not requiring constant technical surveillance.
